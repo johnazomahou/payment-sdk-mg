@@ -1,0 +1,12 @@
+/**
+ * Système de paiement mobile simple pour Madagascar
+ * Supporte Orange Money, MVola et Airtel Money
+ * 
+ * Comment utiliser :
+ * - Envoyer une requête POST avec : forfait, numero, network
+ * - Le script retourne du JSON avec le résultat
+ * Auteur : JOHN AZOMAHOU 
+ * WHATSAPP : +229 97509779
+ * SITE WEB: johnazomahou.com
+ * Date : 2025-06-26
+ */
